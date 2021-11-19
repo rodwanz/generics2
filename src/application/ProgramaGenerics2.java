@@ -30,7 +30,7 @@ public class ProgramaGenerics2 {
 			}
 			
 			Product x = CalculationService.max(list);
-			System.out.println("Max: ");
+			System.out.println("Most expensive: ");
 			System.out.println(x);
 			
 		}catch(IOException e) {
